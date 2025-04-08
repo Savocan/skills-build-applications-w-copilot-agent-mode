@@ -26,7 +26,7 @@ SECRET_KEY = "django-insecure--h!-^2_597(!tv^p&$9&#j*g19o(k-0m_d*%vkbdqu@y3n*nx#
 DEBUG = True
 
 # Allow all hosts
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['fantastic-journey-pp4459pgpp2rrv4-8000.app.github.dev', 'localhost']
 
 
 # Application definition
